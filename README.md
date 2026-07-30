@@ -131,9 +131,6 @@ Invalid IP address
 
 ---
 
-## Disclaimer
-
-This tool is intended for **educational purposes** to understand IP addressing and network fundamentals.
 
 ---
 
