@@ -129,7 +129,7 @@ Invalid IP address
 4. **Subnet calculation** — computes network address, broadcast, and host range using the default CIDR
 5. **IPv6 handling** — detects IPv6 and displays both expanded and compressed forms
 
----
+
 
 
 ---
