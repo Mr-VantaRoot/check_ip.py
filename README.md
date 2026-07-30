@@ -132,8 +132,4 @@ Invalid IP address
 
 
 
----
 
-## License
-
-MIT License — free to use and modify.
